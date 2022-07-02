@@ -1,0 +1,21 @@
+.carouselCategory {
+  display:flex;
+  justify-content: space-between;
+  /*background-color: red;*/
+  width:85%;
+  height:60vh;
+  margin-top:15px;
+  /*padding-left:100px;
+  padding-right: 100px;*/
+}
+
+.carouselCategorySection {
+  /*background-color: pink;*/
+  width:100%;
+  display:flex;
+  justify-content: center;
+}
+
+.main {
+  background-color: rgba(226, 226, 226, 0.4)
+}

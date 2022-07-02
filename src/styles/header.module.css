@@ -1,0 +1,23 @@
+.navbar {
+    width:100%;
+    height:10vh;
+    background-color: white;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;    
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.navlinks {
+    /*background-color: yellow;*/
+    width:50%;
+    display:flex;
+    justify-content: space-around;
+}
+
+.navlinks a {
+    text-decoration: none;
+    color: #ff7171;
+    font-size:22px;
+}
